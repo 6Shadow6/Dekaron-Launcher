@@ -1,0 +1,5 @@
+C:\Users\ShadoW\Downloads\DekaronLauncher-master\DekaronLauncher-master\DekaronLauncher\obj\Debug\DekaronLauncher.csprojAssemblyReference.cache
+C:\Users\ShadoW\Downloads\DekaronLauncher-master\DekaronLauncher-master\DekaronLauncher\obj\Debug\MainWindow.g.cs
+C:\Users\ShadoW\Downloads\DekaronLauncher-master\DekaronLauncher-master\DekaronLauncher\obj\Debug\App.g.cs
+C:\Users\ShadoW\Downloads\DekaronLauncher-master\DekaronLauncher-master\DekaronLauncher\obj\Debug\DekaronLauncher_MarkupCompile.cache
+C:\Users\ShadoW\Downloads\DekaronLauncher-master\DekaronLauncher-master\DekaronLauncher\obj\Debug\DekaronLauncher_MarkupCompile.lref
